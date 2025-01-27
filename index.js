@@ -197,4 +197,4 @@ main().catch(err => {
   console.error('Error:', err.message)
 })
 
-console.log(getContents(__dirname))
+// console.log(getContents(__dirname))
