@@ -1,0 +1,80 @@
+# Node.js dependencies
+/node_modules
+/package-lock.json
+/yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+.pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS and IDE specific files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.vscode/*
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Coverage files
+coverage/
+*.lcov
+
+# Build artifacts
+/build/
+/dist/
+.tmp/
+*.log
+
+# Cache and temporary files
+.cache/
+.nyc_output/
+.next/
+out/
+.cache-loader/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+.turbo/
+
+# TypeScript files
+*.tsbuildinfo
+
+# Lock files
+.lock-wscript
+
+# Dependency directories for package managers
+.pnpm-debug.log
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Testing and debugging
+*.log
+*.spec.ts
+*.test.js
+.nyc_output
+jest.config.js
+
+# Docker-related files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Generated files from tools
+*.orig
